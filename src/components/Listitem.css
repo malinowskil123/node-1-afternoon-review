@@ -1,0 +1,18 @@
+.ListItem {
+  background: skyblue;
+  margin: 20px 0;
+  font-size: 2rem;
+}
+
+.ListItem button {
+  width: 5vw;
+  height: 5vh;
+  font-size: 1rem;
+  margin-bottom: 2vh;
+}
+
+.ListItem input {
+  width: 10vw;
+  height: 5vh;
+  font-size: 1rem;
+}
